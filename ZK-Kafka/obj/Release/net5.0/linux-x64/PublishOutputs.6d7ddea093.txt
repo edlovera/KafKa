@@ -1,0 +1,6 @@
+C:\Users\David Lovera\Carpeta_compartida\ZK-Kafka.pdb
+C:\Users\David Lovera\Carpeta_compartida\alpine-librdkafka.so
+C:\Users\David Lovera\Carpeta_compartida\centos6-librdkafka.so
+C:\Users\David Lovera\Carpeta_compartida\centos7-librdkafka.so
+C:\Users\David Lovera\Carpeta_compartida\librdkafka.so
+C:\Users\David Lovera\Carpeta_compartida\ZK-Kafka
